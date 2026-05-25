@@ -1,0 +1,8 @@
+{
+    "name": "mainhandler-service",
+    "version": "1.0.868",
+    "private": false,
+    "environment": "production",
+    "build_id": 296,
+    "allow_public_access": true
+}
